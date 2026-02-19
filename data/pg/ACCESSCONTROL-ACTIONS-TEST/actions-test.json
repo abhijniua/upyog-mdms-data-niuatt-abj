@@ -2935,7 +2935,7 @@
          "displayName": "Property Subtype",
          "orderNumber": 2,
          "parentModule": "propertytax",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "PT",
          "code": "false",
          "path": "Property Tax.PT Masters.PropertySubType",
@@ -2949,7 +2949,7 @@
          "displayName": "Construction Type",
          "orderNumber": 3,
          "parentModule": "propertytax",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "PT",
          "code": "false",
          "path": "Property Tax.PT Masters.ConstructionType",
@@ -4801,7 +4801,7 @@
          "serviceCode": "TL",
          "code": "null",
          "path": "TradeLicense.Trade License Reports.TradeWiseCollectionReport",
-         "navigationURL": "report/rainmaker-tl/TradeWiseCollectionReport",
+         "navigationURL": "/upyog-ui/employee/tl/TradeWiseCollectionReport",
          "leftIcon": "action:assignment",
          "rightIcon": ""
       },
@@ -4816,7 +4816,7 @@
          "serviceCode": "TL",
          "code": "null",
          "path": "TradeLicense.Trade License Reports.StateLevelStatus",
-         "navigationURL": "report/rainmaker-tl/StateLevelStatus",
+         "navigationURL": "/upyog-ui/employee/tl/StateLevelStatus",
          "leftIcon": "action:assignment",
          "rightIcon": ""
       },
@@ -7141,7 +7141,7 @@
          "serviceCode": "",
          "code": "null",
          "path": "TradeLicense.Trade License Reports.State Level Trade License Registry Report",
-         "navigationURL": "report/rainmaker-tl/StateLevelTradeLicenseRegistryReport",
+         "navigationURL": "/upyog-ui/employee/tl/StateLevelTradeLicenseRegistryReport",
          "leftIcon": "action:assignment",
          "rightIcon": ""
       },
@@ -10142,7 +10142,7 @@
       "serviceCode": "",
       "code": "null",
       "path": "Property Tax.PT Reports.DEFAULTER Report",
-      "navigationURL": "report/pt-reports/DefaulterReport",
+      "navigationURL": "/upyog-ui/employee/pt/DefaulterReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -10179,7 +10179,7 @@
       "serviceCode": "",
       "code": "null",
       "path": "Property Tax.PT Reports.PT Collection Report",
-      "navigationURL": "report/pt-reports/PTReceiptRegister",
+      "navigationURL": "/upyog-ui/employee/pt/PTReceiptRegister",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -10216,7 +10216,7 @@
       "serviceCode": "",
       "code": "null",
       "path": "Property Tax.PT Reports.Receipt Register",
-      "navigationURL": "report/pt-reports/PTCollectionReport",
+      "navigationURL": "/upyog-ui/employee/pt/PTCollectionReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -13298,7 +13298,7 @@
       "serviceCode": "TL",
       "code": "null",
       "path": "TradeLicense.Trade License Reports.TradeLicenseDailyCollectionReport",
-      "navigationURL": "report/rainmaker-tl/TradeLicenseDailyCollectionReport",
+      "navigationURL": "/upyog-ui/employee/tl/TradeLicenseDailyCollectionReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -13337,7 +13337,7 @@
       "serviceCode": "TL",
       "code": "null",
       "path": "TradeLicense.Trade License Reports.TLApplicationStatusReport",
-      "navigationURL": "report/rainmaker-tl/TLApplicationStatusReport",
+      "navigationURL": "/upyog-ui/employee/tl/TLApplicationStatusReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -14372,7 +14372,7 @@
       "serviceCode": "TL",
       "code": "null",
       "path": "TradeLicense.Trade License Reports.TLRegistryReport",
-      "navigationURL": "report/rainmaker-tl/TLRegistryReport",
+      "navigationURL": "/upyog-ui/employee/tl/TLRegistryReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -14411,7 +14411,7 @@
       "serviceCode": "TL",
       "code": "null",
       "path": "TradeLicense.Trade License Reports.TLRenewalPendingReport",
-      "navigationURL": "report/rainmaker-tl/TLRenewalPendingReport",
+      "navigationURL": "/upyog-ui/employee/tl/TLRenewalPendingReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -15035,7 +15035,7 @@
       "serviceCode": "wns",
       "code": "null",
       "path": "Water & Sewerage.Water & Sewerage Reports.WaterDisconnectionReport",
-      "navigationURL": "report/rainmaker-ws/WaterDisconnectionReport",
+      "navigationURL": "/upyog-ui/employee/ws/WaterDisconnectionReport",
       "leftIcon": "action:description",
       "rightIcon": ""
     },
@@ -15072,7 +15072,7 @@
       "serviceCode": "wns",
       "code": "null",
       "path": "Water & Sewerage.Water & Sewerage Reports.WaterConnectionReport",
-      "navigationURL": "report/rainmaker-ws/WaterConnectionReport",
+      "navigationURL": "/upyog-ui/employee/ws/WaterConnectionReport",
       "leftIcon": "action:description",
       "rightIcon": ""
     },
@@ -15136,7 +15136,7 @@
       "serviceCode": "wns",
       "code": "null",
       "path": "Water & Sewerage.Water & Sewerage Reports.SewerageDisconnectionReport",
-      "navigationURL": "report/rainmaker-ws/SewerageDisconnectionReport",
+      "navigationURL": "/upyog-ui/employee/ws/SewerageDisconnectionReport",
       "leftIcon": "action:description",
       "rightIcon": ""
     },
@@ -15173,7 +15173,7 @@
       "serviceCode": "wns",
       "code": "null",
       "path": "Water & Sewerage.Water & Sewerage Reports.SewerageConnectionReport",
-      "navigationURL": "report/rainmaker-ws/SewerageConnectionReport",
+      "navigationURL": "/upyog-ui/employee/ws/SewerageConnectionReport",
       "leftIcon": "action:description",
       "rightIcon": ""
     },
@@ -15210,7 +15210,7 @@
       "serviceCode": "PGR",
       "code": "null",
       "path": "Property Tax.PT Reports.PTGrievances",
-      "navigationURL": "report/pt-reports/PTGrievances",
+      "navigationURL": "/upyog-ui/employee/pt/PTGrievances",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -15248,7 +15248,7 @@
       "serviceCode": "",
       "code": "null",
       "path": "Property Tax.PT Reports.PT Coverage Report",
-      "navigationURL": "report/pt-reports/PTCoverageReport",
+      "navigationURL": "/upyog-ui/employee/pt/PTCoverageReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -15285,7 +15285,7 @@
       "serviceCode": "wns",
       "code": "null",
       "path": "Water & Sewerage.Water & Sewerage Reports.DemandCollectionBalancedRegister",
-      "navigationURL": "report/rainmaker-ws/DemandCollectionBalancedRegister",
+      "navigationURL": "/upyog-ui/employee/ws/DemandCollectionBalancedRegister",
       "leftIcon": "action:description",
       "rightIcon": ""
     },
@@ -15322,7 +15322,7 @@
       "serviceCode": "TL",
       "code": "null",
       "path": "TradeLicense.Trade License Reports.TradeLicenseCancelledRegistryReport",
-      "navigationURL": "report/rainmaker-tl/TradeLicenseCancelledRegistryReport",
+      "navigationURL": "/upyog-ui/employee/tl/TradeLicenseCancelledRegistryReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -15477,7 +15477,7 @@
       "serviceCode": "TL",
       "code": "null",
       "path": "TradeLicense.Trade License Reports.TradeLicenseDefaulterReport",
-      "navigationURL": "report/rainmaker-tl/TradeLicenseDefaulterReport",
+      "navigationURL": "/upyog-ui/employee/tl/TradeLicenseDefaulterReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -15719,7 +15719,7 @@
       "serviceCode": "",
       "code": "null",
       "path": "Property Tax.PT Reports.PT Top 20 Tax Payers Report",
-      "navigationURL": "report/pt-reports/PTTop20TaxPayers",
+      "navigationURL": "/upyog-ui/employee/pt/PTTop20TaxPayers",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -18816,7 +18816,7 @@
       "code": "null",
       "path": "Asset.Reports.AssetapplicationReport",
       "parentModule": "asset-services-masters",
-      "navigationURL": "report/rainmaker-asset/AssetapplicationReport",
+      "navigationURL": "/upyog-ui/employee/asset/AssetapplicationReport",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -18831,7 +18831,7 @@
       "code": "null",
       "path": "Asset.Reports.AssetapplicationReportULBwise",
       "parentModule": "asset-services-masters",
-      "navigationURL": "report/rainmaker-asset/AssetapplicationReportULBwise",
+      "navigationURL": "/upyog-ui/employee/asset/AssetapplicationReportULBwise",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -18914,7 +18914,7 @@
     },
     {
       "id": 2864,
-      "name": "AssetapplicationReport",
+      "name": "Asset Report",
       "url": "/report/rainmaker-asset/AssetapplicationReport/metadata/_get",
       "displayName": "rainmaker-asset-AssetapplicationReport",
       "orderNumber": 1,
@@ -18925,7 +18925,7 @@
     },
     {
       "id": 2865,
-      "name": "AssetapplicationReport",
+      "name": "Asset Report",
       "url": "/report/rainmaker-asset/AssetapplicationReport/_get",
       "displayName": "rainmaker-asset-AssetapplicationReport",
       "orderNumber": 1,
@@ -18990,7 +18990,7 @@
       "serviceCode": "ASSET",
       "code": "null",
       "path": "Asset.Reports.AssetAssignmentReport",
-      "navigationURL": "report/rainmaker-asset/AssetAssignmentReport",
+      "navigationURL": "/upyog-ui/employee/asset/AssetAssignmentReport",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -19300,7 +19300,7 @@
       "serviceCode": "ASSET",
       "code": "null",
       "path": "Asset.Reports.AssetDisposalReport",
-      "navigationURL": "report/rainmaker-asset/AssetDisposalReport",
+      "navigationURL": "/upyog-ui/employee/asset/AssetDisposalReport",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -20361,7 +20361,7 @@
          "serviceCode": "ASSET",
          "code": "null",
          "path": "Asset.Reports.AssetMaintenanceReport",
-         "navigationURL": "report/rainmaker-asset/AssetMaintenanceReport",
+         "navigationURL": "/upyog-ui/employee/asset/AssetMaintenanceReport",
          "leftIcon": "places:business-center",
          "rightIcon": ""
       },
@@ -20417,7 +20417,7 @@
          "serviceCode": "CHB",
          "code": "null",
          "path": "CHB.Reports.CHBDailyRegisterReport",
-         "navigationURL": "report/rainmaker-CHB/CHBDailyRegisterReport",
+         "navigationURL": "/upyog-ui/employee/chb/CHBDailyRegisterReport",
          "leftIcon": "places:business-center",
          "rightIcon": ""
       },
@@ -20462,7 +20462,7 @@
          "serviceCode": "CHB",
          "code": "null",
          "path": "CHB.Reports.CHBRefundReport",
-         "navigationURL": "report/rainmaker-CHB/CHBRefundReport",
+         "navigationURL": "/upyog-ui/employee/chb/CHBRefundReport",
          "leftIcon": "places:business-center",
          "rightIcon": ""
       },
@@ -20780,7 +20780,7 @@
          "serviceCode": "PTR",
          "code": "null",
          "path": "PTR.Reports.PetReport",
-         "navigationURL": "report/rainmaker-pet/PetReport",
+         "navigationURL": "/upyog-ui/employee/ptr/PetReport",
          "leftIcon": "places:business-center",
          "rightIcon": ""
       },
@@ -20825,7 +20825,7 @@
          "serviceCode": "ADS",
          "code": "null",
          "path": "ADS.Reports.AdvApplicationReport",
-         "navigationURL": "report/rainmaker-ads/AdvApplicationReport",
+         "navigationURL": "/upyog-ui/employee/ads/AdvApplicationReport",
          "leftIcon": "places:business-center",
          "rightIcon": ""
       },
@@ -21407,7 +21407,7 @@
     },
 	{
       "id": 3072,
-      "name": "Asset Report",
+      "name": "Asset Count Report",
       "url": "url",
       "displayName": "Asset Count Report",
       "orderNumber": 1,
@@ -21416,7 +21416,7 @@
       "serviceCode": "ASSET",
       "code": "null",
       "path": "Asset.Reports.AssetCountReport",
-      "navigationURL": "report/rainmaker-asset/AssetCountReport",
+      "navigationURL": "/upyog-ui/employee/asset/AssetCountReport",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -21455,7 +21455,7 @@
          "serviceCode": "ASSET",
          "code": "null",
          "path": "Asset.Reports.LandReport",
-         "navigationURL": "report/rainmaker-asset/LandReport",
+         "navigationURL": "/upyog-ui/employee/asset/LandReport",
          "leftIcon": "places:business-center",
          "rightIcon": ""
       },
@@ -21517,7 +21517,7 @@
    "serviceCode": "ASSET",
    "code": "null",
    "path": "Asset.Reports.DetailedBuildingAssetsReport",
-   "navigationURL": "report/rainmaker-asset/DetailedBuildingAssetsReport",
+   "navigationURL": "/upyog-ui/employee/asset/DetailedBuildingAssetsReport",
    "leftIcon": "places:business-center",
    "rightIcon": ""
 },
@@ -21556,7 +21556,7 @@
   "serviceCode": "ASSET",
   "code": "null",
   "path": "Asset.Reports.PlantsMachineryReport",
-  "navigationURL": "report/rainmaker-asset/PlantsMachineryReport",
+  "navigationURL": "/upyog-ui/employee/asset/PlantsMachineryReport",
   "leftIcon": "places:business-center",
   "rightIcon": ""
 },
@@ -21625,7 +21625,7 @@
   "serviceCode": "MOBILE_TOILET",
   "code": "null",
   "path": "MobileToilet.Reports.MobileToiletRequestRegister",
-  "navigationURL": "report/rainmaker-mt/MobileToiletRequestRegister",
+  "navigationURL": "/upyog-ui/employee/wt/MobileToiletRequestRegister",
   "leftIcon": "places:business-center",
   "rightIcon": ""
 },
@@ -21664,7 +21664,7 @@
   "serviceCode": "TREE_PRUNING",
   "code": "null",
   "path": "TreePruning.Reports.treePruningRequestRegister",
-  "navigationURL": "report/rainmaker-tp/treePruningRequestRegister",
+  "navigationURL": "/upyog-ui/employee/wt/treePruningRequestRegister",
   "leftIcon": "places:business-center",
   "rightIcon": ""
 },
@@ -21703,7 +21703,7 @@
   "serviceCode": "WATER_TANKER",
   "code": "null",
   "path": "WaterTanker.Reports.waterTankerRequestReport",
-  "navigationURL": "report/rainmaker-wt/waterTankerRequestReport",
+  "navigationURL": "/upyog-ui/employee/wt/waterTankerRequestReport",
   "leftIcon": "places:business-center",
   "rightIcon": ""
 },
@@ -21724,45 +21724,6 @@
   "name": "waterTankerRequestReport",
   "url": "/report/rainmaker-wt/waterTankerRequestReport/_get",
   "displayName": "rainmaker-wt-waterTankerRequestReport",
-  "orderNumber": 2,
-  "parentModule": "",
-  "enabled": true,
-  "serviceCode": "report",
-  "code": "null",
-  "path": ""
-},
-{
-  "id": 3099,
-  "name": "Hierarchical Asset Data Report",
-  "url": "url",
-  "displayName": "Hierarchical Asset Data Report",
-  "orderNumber": 1,
-  "parentModule": "rainmaker-asset",
-  "enabled": true,
-  "serviceCode": "ASSET",
-  "code": "null",
-  "path": "Asset.Reports.HierarchicalAssetDataReport",
-  "navigationURL": "report/rainmaker-asset/HierarchicalAssetDataReport",
-  "leftIcon": "places:business-center",
-  "rightIcon": ""
-},
-{
-  "id": 3100,
-  "name": "HierarchicalAssetDataReport",
-  "url": "/report/rainmaker-asset/HierarchicalAssetDataReport/metadata/_get",
-  "displayName": "rainmaker-asset-HierarchicalAssetDataReport",
-  "orderNumber": 2,
-  "parentModule": "",
-  "enabled": true,
-  "serviceCode": "report",
-  "code": "null",
-  "path": ""
-},
-{
-  "id": 3101,
-  "name": "HierarchicalAssetDataReport",
-  "url": "/report/rainmaker-asset/HierarchicalAssetDataReport/_get",
-  "displayName": "rainmaker-asset-HierarchicalAssetDataReport",
   "orderNumber": 2,
   "parentModule": "",
   "enabled": true,
