@@ -18647,7 +18647,7 @@
       "serviceCode": "SV",
       "code": "null",
       "path": "StreetVending.Reports.StreetVendingReport",
-      "navigationURL": "report/sv-report/StreetVendingReport/",
+      "navigationURL": "/sv-ui/employee/sv/StreetVendingReport",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -21348,7 +21348,7 @@
          "serviceCode": "CND",
          "code": "null",
          "path": "CND.Reports.CNDApplicationReport",
-         "navigationURL": "report/rainmaker-CND/CNDApplicationReport",
+         "navigationURL": "/cnd-ui/employee/CND/CNDApplicationReport",
          "leftIcon": "places:business-center",
          "rightIcon": ""
       },
