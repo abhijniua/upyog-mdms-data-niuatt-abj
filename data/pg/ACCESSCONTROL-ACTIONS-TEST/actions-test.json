@@ -21822,6 +21822,18 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/upyog-ui/citizen/est-home"
-    } 
+    },
+	   {
+         "id": 4006,
+         "name": "DSS Dashboard Config Street Vending",
+         "url": "/dashboard-analytics/dashboard/getDashboardConfig/streetVending",
+         "parentModule": "",
+         "displayName": "DSS",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "DSS",
+         "code": "null",
+         "path": ""
+      }
   ]
 }

@@ -33045,6 +33045,12 @@
       "actionid": 3102,
       "actioncode": "",
       "tenantId": "pg"
+    },
+	  {
+      "rolecode": "STADMIN",
+      "actionid": 4006,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
