@@ -8,7 +8,9 @@
             "toPlotArea": 150,
             "occupancy": "residential",
             "riskType": null,
+            "isBasementParking": false,
             "isOpenParking": true,
+            "isStiltParking": false,
             "noOfParking": 1,
             "permissible": 26.5,
             "active": true
@@ -19,8 +21,10 @@
             "toPlotArea": 200,
             "occupancy": "residential",
             "riskType": null,
+            "isBasementParking": false,
+            "isStiltParking": false,
             "isOpenParking": true,
-            "noOfParking": 1,
+            "noOfParking": 1,    
             "permissible": 20,
             "active": true
         },
@@ -30,7 +34,9 @@
             "toPlotArea": 500,
             "occupancy": "residential",
             "riskType": null,
+            "isBasementParking": false,
             "isStiltParking": true,
+            "isOpenParking": false,
             "noOfParking": 3,
             "permissible": 32.5,
             "active": true
@@ -42,6 +48,8 @@
             "occupancy": "residential",
             "riskType": null,
             "isBasementParking": true,
+            "isStiltParking": false,
+            "isOpenParking": false,
             "noOfParking": 3,
             "permissible": 38.5,
             "active": true
