@@ -26169,7 +26169,17 @@
     "serviceCode": "MDMS",
     "code": "null",
     "path": ""
-  }
-
+  },
+  {
+         "id": 4399,
+         "name": "Role Base Employee Dashboard Search",
+         "url": "/employee-dashboard/v2/_search",
+         "displayName": "Employee City Dashboard v2",
+         "orderNumber": 1,
+         "enabled": false,
+         "serviceCode": "employee-dashboard",
+         "code": "null",
+         "path": ""
+   }
   ]
 }

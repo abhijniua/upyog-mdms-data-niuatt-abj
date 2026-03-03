@@ -35403,6 +35403,108 @@
     "actionid": 4398,
     "actioncode": "",
     "tenantId": "pg"
+  },
+  {
+    "rolecode": "OBPAS_DASHBOARD_VIEWER",
+    "actionid": 4399,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "ASSET_DASHBOARD_VIEWER",
+    "actionid": 4399,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "FSM_DASHBOARD_VIEWER",
+    "actionid": 4399,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "PGR_DASHBOARD_VIEWER",
+    "actionid": 4399,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "CHB_DASHBOARD_VIEWER",
+    "actionid": 4399,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "PTR_DASHBOARD_VIEWER",
+    "actionid": 4399,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "EW_DASHBOARD_VIEWER",
+    "actionid": 4399,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "TL_DASHBOARD_VIEWER",
+    "actionid": 4399,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "WATER_DASHBOARD_VIEWER",
+    "actionid": 4399,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "PT_DASHBOARD_VIEWER",
+    "actionid": 4399,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "SEWERAGE_DASHBOARD_VIEWER",
+    "actionid": 4399,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "SV_DASHBOARD_VIEWER",
+    "actionid": 4399,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "CND_DASHBOARD_VIEWER",
+    "actionid": 4399,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MT_DASHBOARD_VIEWER",
+    "actionid": 4399,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "WT_DASHBOARD_VIEWER",
+    "actionid": 4399,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "TP_DASHBOARD_VIEWER",
+    "actionid": 4399,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "ADS_DASHBOARD_VIEWER",
+    "actionid": 4399,
+    "actioncode": "",
+    "tenantId": "pg"
   }
   ]
 }
